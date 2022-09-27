@@ -1,5 +1,5 @@
-name: sharik
-description: Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+name: avshare
+description: AV-Share is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 homepage: https://github.com/marchellodev/sharik
 repository: https://github.com/marchellodev/sharik
 issue_tracker: https://github.com/marchellodev/sharik/issues
@@ -43,10 +43,10 @@ dependencies:
   url_launcher: ^6.0.20
   device_apps: ^2.1.1
 
-#  hive: ^2.0.4
+  # hive: ^2.0.4
   hive_flutter: ^1.1.0
 
-
+  # localizations
   intl: ^0.17.0
 
   # todo implement
